@@ -6,7 +6,7 @@ const calculateTemp = () => {
 
     // Celsius to Fahrenheit
     const celToFah = (cel) => {
-        // hello kundan babu
+        // hello kundan babu good morning
         let fahrenheit = ((cel * 9 / 5) + 32).toFixed(1);
         return fahrenheit;
     }
